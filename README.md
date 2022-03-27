@@ -17,7 +17,7 @@ Repositories:
 - https://github.com/Farcrada/DiscordPlugins
 - https://github.com/HoLLy-HaCKeR/BetterDiscord-Themes-and-Plugins
 
-Deservers mentioning:
+Deserves mentioning:
 - https://github.com/l0c4lh057/AccountSwitcher
 - https://github.com/leogx9r/DiscordCrypt
 

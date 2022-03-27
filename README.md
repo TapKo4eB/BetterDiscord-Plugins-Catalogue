@@ -1,6 +1,6 @@
 # Catalogue of BetterDiscord Plugins Repositories
 
-**ACHTUNG**: I take no responsibility if you somehow lose your data/damage you computer/etc with something that you found inside the mentioned repositories. Check the code by yourself *before* you try to execute it.
+**ACHTUNG**: I take no responsibility if you somehow lose your data/damage your computer/etc with something that you found inside the mentioned repositories. Check the code by yourself *before* you try to execute it.
 
 Repositories:
 - https://github.com/mwittrien/BetterDiscordAddons

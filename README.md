@@ -16,7 +16,7 @@ Repositories:
 - https://github.com/jaimeadf/BetterDiscordPlugins
 - https://github.com/Farcrada/DiscordPlugins
 - https://github.com/HoLLy-HaCKeR/BetterDiscord-Themes-and-Plugins
-- https://github.com/1Lighty/BetterDiscordPlugins
+- https://github.com/1Lighty/BetterDiscordPlugins - Logger, Crash Recovery and etc.
 
 Deserves mentioning:
 - https://github.com/l0c4lh057/AccountSwitcher
